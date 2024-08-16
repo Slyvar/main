@@ -1,0 +1,5 @@
+name = str (input("Enter your name : "))
+age = str (input("Enter your age : "))
+address = str (input("Enter your address : "))
+phone = str (input("Enter your phone : "))
+print ("Contact created : ", {'name' : name,'age' : age, 'address' : address, 'phone' : phone} )
